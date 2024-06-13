@@ -400,6 +400,11 @@
 	 color:white;
  }
  
+ .text--container--column .text--container--column{
+	color:white;
+	color:white !important;
+ }
+ 
  .footer--container .footer--container--icons {
      display: flex;
      gap: 30px;
